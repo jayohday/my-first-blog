@@ -3,4 +3,4 @@ from .models import Post
 
 admin.site.register(Post)
 
-#stopped at "Deploy" in DjangoGirls app
+#stopped at "You are live!" in deploy section of DjangoGirls app
